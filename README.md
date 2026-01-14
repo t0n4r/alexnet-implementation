@@ -2,7 +2,7 @@
 # AlexNet Implementation for CIFAR-10
 
 ## Overview
-This project implements the AlexNet Convolutional Neural Network architecture adapted for the CIFAR-10 dataset. Here's the accompanying [blog](https://www.tonar.xyz/blog/2025/AlexNet-Implementation/) to the project.AlexNet was a groundbreaking CNN architecture that won the ImageNet Large Scale Visual Recognition Challenge (ILSVRC) in 2012, significantly outperforming previous approaches and helping to usher in the deep learning revolution in computer vision.
+This project implements the AlexNet Convolutional Neural Network architecture adapted for the CIFAR-10 dataset. Here's the accompanying [blog](https://tonar.xyz/blog/2025/alexnet-implementation/) to the project.AlexNet was a groundbreaking CNN architecture that won the ImageNet Large Scale Visual Recognition Challenge (ILSVRC) in 2012, significantly outperforming previous approaches and helping to usher in the deep learning revolution in computer vision.
 
 ## Features
 - Complete implementation of AlexNet architecture adapted for smaller 32x32 CIFAR-10 images
@@ -64,4 +64,4 @@ The entire implementation is contained in the Jupyter notebook AlexNet_Implement
 ## References
 1. Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ImageNet classification with deep convolutional neural networks. In Advances in neural information processing systems (pp. 1097-1105).
 2. CIFAR-10 dataset: https://www.cs.toronto.edu/~kriz/cifar.html
-3. My blog on the implementation of this paper: https://www.tonar.xyz/blog/2025/AlexNet-Implementation/
+3. My blog on the implementation of this paper: https://tonar.xyz/blog/2025/alexnet-implementation/
